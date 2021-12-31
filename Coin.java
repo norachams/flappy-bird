@@ -1,11 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.util.List;
-/**
- * Write a description of class coin here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+
 public class Coin extends Actor
 {
     GifImage myGif = new GifImage ("coin-clipart-drawn-17.gif");
