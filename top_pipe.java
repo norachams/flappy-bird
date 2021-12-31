@@ -1,11 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-/**
- * Write a description of class top_pipe here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class top_pipe extends Actor
 {
     int PIPE_SPEED = -4;
