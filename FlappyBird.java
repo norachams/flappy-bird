@@ -6,11 +6,7 @@ public class FlappyBird extends Actor
     double g = 1.3;
     double BOOST_SPEED = -6.5;
     
-    /*public FlappyBird(){
-     GreenfootImage image = getImage();  
-     image.scale(100, 100);
-     setImage(image);
-    }*/
+  
    
     /**
      * Act - do whatever the FlappyBird wants to do. This method is called whenever
